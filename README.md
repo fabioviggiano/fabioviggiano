@@ -36,7 +36,7 @@ Sono anche **studente lavoratore all'Università di Bologna (Alma Mater Studioru
 
 ## 🎶 Musica dal vivo e comunicazione culturale
 
-# Dalla folgorazione di Lou Reed a Concerti a Bologna: Il mio viaggio nella musica live  
+## Dalla folgorazione di Lou Reed a Concerti a Bologna: Il mio viaggio nella musica live  
 
 La mia "scossa" definitiva è arrivata prima dei dieci anni. Ero al mio primo concerto, il **Concerto del Primo Maggio a Roma**, accompagnato dai miei genitori. Sul palco c’era **Lou Reed**. Ricordo il caos totale, l’energia elettrica e una vera e propria **folgorazione**. Da quel momento, la musica dal vivo è diventata la bussola della mia vita.
 
