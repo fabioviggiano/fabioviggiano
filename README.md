@@ -69,6 +69,26 @@ Un’esperienza che ha consolidato la mia passione per il **fare impresa** e mi 
 
 ---
 
+## 🧭 Esperienze trasversali
+
+Prima e durante il mio percorso universitario ho maturato esperienze lavorative in contesti molto diversi tra loro, che hanno contribuito in modo significativo alla mia crescita personale e professionale.
+
+Ho lavorato nel settore della ristorazione come **cameriere, pizzaiolo e barista**, principalmente nei weekend, sviluppando capacità di:
+- gestione dello stress  
+- lavoro in team  
+- relazione con il cliente  
+- problem solving in contesti dinamici  
+
+Successivamente ho lavorato per due anni come **animatore turistico nei villaggi**, un’esperienza formativa che mi ha permesso di rafforzare:
+- comunicazione efficace  
+- public speaking  
+- gestione di gruppi e attività  
+- adattabilità e spirito di iniziativa  
+
+Queste esperienze, apparentemente distanti dal mondo IT, hanno avuto un impatto fondamentale nel mio modo di lavorare oggi, soprattutto nella gestione delle relazioni, dei team e dei progetti.
+
+---
+
 ## 🛠 Competenze e interessi
 
 - **Gestione e Analisi:** Agile Project Management, Analisi IT, ottimizzazione dei processi digitali  
