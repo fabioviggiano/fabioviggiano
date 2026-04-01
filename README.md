@@ -2,7 +2,7 @@
 
 **Analista informatico @ Comune di Bologna**  
 *Ex sviluppatore backend (Java, C#)*   
-*Appassionato di AI, startup, musica dal vivo e attualità (giornali & podcast)*
+*Appassionato musica dal vivo, attualità (giornali & podcast) e arte contemporanea*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioviggiano">
@@ -41,6 +41,8 @@ La folgorazione definitiva è arrivata prima dei 10 anni, al mio primo concerto:
 Durante le superiori, la professoressa di Informatica **Pia Di Donato** propose a me e a due amici di scrivere per la testata online che gestiva, tuttora attiva: **[CasertaMusica.com](https://www.casertamusica.com)**.  
 
 Ho co-fondato l'associazione culturale **[Club 33 Giri](https://www.club33giri.it)** a Santa Maria Capua Vetere, dedicata alla realizzazione di **eventi musicali e culturali**, e oggi collaboro con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, dove scrivo **report di musica dal vivo** e produco **reel per Instagram** nella rubrica *Release Radar*, portando avanti la mia passione per il live e la comunicazione digitale.
+
+Gestisco infine il portale **[Concerti a Bologna](https://www.concertiabologna.it)** ove è possibile trovare tutti gli appuntamenti live sulla città dove risiedo.
 
 ---
 
