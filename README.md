@@ -2,10 +2,9 @@
 
 **Agile Project Manager e IT Analyst @ Comune di Bologna**  
 *Ex sviluppatore backend (Java e C#) | Appassionato di AI, startup e live music*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Viggiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioviggiano)  
-[![Spotify](https://img.shields.io/badge/Spotify-Ascoltami-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1167099710?si=8effbe633a4246da)  
-[![Instagram](https://img.shields.io/badge/Instagram-@viggiagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viggiagram)
+| | | |
+|---|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioviggiano) | [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1167099710?si=8effbe633a4246da) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viggiagram) |
 
 
 ---
