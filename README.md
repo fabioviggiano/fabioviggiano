@@ -79,3 +79,9 @@ Sul fronte del volontariato ho organizzato **flashmob e attivismo culturale** co
 
 - **[BlindDeconvolution](https://github.com/fabioviggiano/BlindDeconvolution)** — Progetto Python per Computational Imaging
 - **[AlmaMater](https://github.com/fabioviggiano/AlmaMater)** — Appunti, script e materiali del percorso universitario
+
+### 🧠 LLM & Prompts
+
+- **[Prompts](https://github.com/fabioviggiano/prompts)** — Raccolta di prompt per uso personale e lavorativo: dalla gestione progetti alla comunicazione digitale
+- **[LLM Experiments](https://github.com/fabioviggiano/llm-experiments)** — **Work in progress**
+
