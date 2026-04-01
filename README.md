@@ -64,7 +64,7 @@ Sul fronte del volontariato ho organizzato **flashmob e attivismo culturale** co
 | **Project & Analysis** | Agile PM, Analisi IT, ottimizzazione processi |
 | **Tech** | Python, Java, C#, sviluppo backend |
 | **AI & Digital** | LLM, prompt engineering, trasformazione digitale PA |
-| **Communication** | Scrittura musicale, storytelling, SEO, eventi live |
+| **Communication** | Scrittura musicale, storytelling, SEO, eventi live, public speaking |
 
 ---
 
