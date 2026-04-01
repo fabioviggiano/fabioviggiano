@@ -26,7 +26,7 @@ Classe 1989, origini campane e sicule. La mia vita si muove da sempre su due bin
 
 ## 💻 IT e pubblica amministrazione digitale
 
-Ho iniziato come sviluppatore backend lavorando per Prometeia e come consulente per YOOX NET-A-PORTER (Tecla.it). Oggi mi occupo di **AI, LLM e trasformazione digitale**, esplorando come queste tecnologie possano ottimizzare processi e migliorare la comunicazione.
+Ho iniziato come sviluppatore backend lavorando per Prometeia e come consulente per YOOX NET-A-PORTER (Tecla.it). Oggi mi occupo di **gestione progetti e trasformazione digitale**, esplorando come queste tecnologie possano ottimizzare processi e migliorare la comunicazione.
 
 Come **Analista IT al Comune di Bologna** lavoro per rendere la PA più digitale e accessibile: migliorando l'interazione con i cittadini, semplificando i processi interni e applicando soluzioni innovative al settore pubblico.
 
