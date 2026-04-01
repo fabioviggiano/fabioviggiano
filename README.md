@@ -17,7 +17,7 @@
 
 ---
 
-# 🎵 Tra codice e note: la mia storia
+# 🎵 Tra codice, startup e note: la mia storia
 
 Classe 1989, origini metà campane e metà sicule. Fin dall’adolescenza, la mia vita si muove su due binari paralleli e inseparabili: **informatica** e **musica dal vivo**.
 
