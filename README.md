@@ -56,16 +56,16 @@ La passione per la musica dal vivo mi ha naturalmente portato verso il mondo del
 
 Ho partecipato al percorso di incubazione presso **012Factory**, primo centro di contaminazione in Italia per l’imprenditoria innovativa, basato su un approccio concreto al *learning by doing* e sulla condivisione di idee, esperienze e visioni.
 
-In questo contesto è nata, fin dai primi giorni di percorso, l’idea di **LYL – Live Your Live**, una startup ideata e sviluppata interamente all’interno dell’incubatore.
+In questo contesto, fin dai primi giorni di percorso, è nata l’idea di **LYL – Live Your Live**, una startup ideata e sviluppata interamente all’interno dell’incubatore.
 
-LYL è una piattaforma web e mobile pensata per migliorare l’esperienza della musica dal vivo, accompagnando l’utente in tutto il journey:
+LYL era una piattaforma web e mobile pensata per migliorare l’esperienza della musica dal vivo, accompagnando l’utente in tutto il journey:
 - acquisto del biglietto  
 - organizzazione di viaggio, vitto e alloggio  
 - recensione e valutazione di performance, location e organizzazione  
 
-Il progetto è stato selezionato per la **finale del 16 gennaio 2015**, presso il **Teatro di Corte della Reggia di Caserta**, presentato davanti a una giuria composta da investitori, business angel ed esperti del settore.
+Il progetto è stato selezionato per la **finale del 16 gennaio 2015**, presso il **Teatro di Corte della Reggia di Caserta**, e presentato davanti a una giuria composta da investitori, business angel ed esperti del settore.
 
-Un’esperienza che ha rafforzato la mia passione per il **fare impresa** e mi ha dato un bagaglio di competenze difficilmente acquisibile al di fuori di un contesto imprenditoriale reale.
+Un’esperienza che ha consolidato la mia passione per il **fare impresa** e mi ha lasciato un bagaglio di competenze difficilmente acquisibile al di fuori di un contesto imprenditoriale reale.
 
 ---
 
