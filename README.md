@@ -1,6 +1,6 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
-**Analista informatico @ Comune di Bologna**  
+**Proxy Product Owner (PPO) @ Comune di Bologna**  
 *Ex sviluppatore backend (Java, C#)*   
 *Appassionato musica dal vivo, attualità (giornali & podcast) e arte contemporanea*
 
@@ -26,7 +26,7 @@ Classe 1989, origini campane e sicule. La mia vita si muove da sempre su due bin
 
 ## 💻 IT e pubblica amministrazione digitale
 
-Ho iniziato come sviluppatore backend e oggi mi occupo di **AI, LLM e trasformazione digitale**, esplorando come queste tecnologie possano ottimizzare processi e migliorare la comunicazione.
+Ho iniziato come sviluppatore backend lavorando per Prometeia e come consulente per YOOX NET-A-PORTER (Tecla.it). Oggi mi occupo di **AI, LLM e trasformazione digitale**, esplorando come queste tecnologie possano ottimizzare processi e migliorare la comunicazione.
 
 Come **Analista IT al Comune di Bologna** lavoro per rendere la PA più digitale e accessibile: migliorando l'interazione con i cittadini, semplificando i processi interni e applicando soluzioni innovative al settore pubblico.
 
@@ -69,6 +69,9 @@ Sul fronte del volontariato, ho organizzato **flashmob e attività di attivismo 
 
 ---
 
+ **🔥 Fun Fact**: Sono stato **Tedoforo** ufficiale per i XX Giochi Olimpici Invernali di Torino 2006.
+
+---
 ## 🛠 Competenze
 
 | Area | Dettaglio |
