@@ -1,7 +1,8 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
-**Agile Project Manager e IT Analyst @ Comune di Bologna**  
-*Ex backend developer (Java, C#) | Appassionato di AI, startup, musica dal vivo e attualità (giornali & podcast)*
+**Analista informatico @ Comune di Bologna**  
+*Ex sviluppatore backend (Java, C#)*   
+*Appassionato di AI, startup, musica dal vivo e attualità (giornali & podcast)*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioviggiano">
@@ -43,7 +44,7 @@ Ho co-fondato un'associazione culturale a Santa Maria Capua Vetere per realizzar
 
 ## 🚀 Startup
 
-La passione per la musica mi ha portato nel mondo dell'innovazione. Ho partecipato al percorso di incubazione presso **012Factory**, dove è nata **LYL – Live Your Live**: una piattaforma web e mobile per migliorare l'esperienza della musica dal vivo, dalla ricerca del concerto all'acquisto del biglietto, fino alla logistica e alla recensione dell'evento.
+La passione per la musica mi ha portato nel mondo dell'innovazione imprenditoriale nel 2015. Ho partecipato al percorso di incubazione presso **012Factory**, dove è nata **LYL – Live Your Live**: una piattaforma web e mobile per migliorare l'esperienza della musica dal vivo, dalla ricerca del concerto all'acquisto del biglietto, fino alla logistica e alla recensione dell'evento.
 
 Il progetto è stato selezionato per la **finale del 16 gennaio 2015** presso il **Teatro di Corte della Reggia di Caserta**, presentato davanti a investitori, business angel ed esperti del settore.
 
@@ -51,9 +52,9 @@ Il progetto è stato selezionato per la **finale del 16 gennaio 2015** presso il
 
 ## 🧭 Esperienze trasversali e volontariato
 
-Prima e durante l'università ho lavorato come **cameriere, pizzaiolo, barista** e **animatore turistico**, sviluppando competenze di relazione, public speaking, gestione dello stress e problem solving che uso ogni giorno nel lavoro di team e di progetto.
+Prima e durante la laurea triennale in Informatica a Napoli, ho lavorato come **cameriere, pizzaiolo, barista** e **animatore turistico estivo**, sviluppando competenze preziose in **relazione con le persone, public speaking, gestione dello stress e problem solving**, che applico quotidianamente nella gestione di team e progetti.  
 
-Sul fronte del volontariato ho organizzato **flashmob e attivismo culturale** col *Club 33 Giri*, partecipato alle **staffette solidali di Labàs** durante il COVID, contribuito al **Censimento ISTAT sulle persone senza dimora** nel 2026 (metodologia *Point in Time*, 14 città) e condotto attività di **alfabetizzazione digitale** per bambini tramite **Scratch**.
+Sul fronte del volontariato, ho organizzato **flashmob e attività di attivismo culturale** con il *Club 33 Giri*, partecipato alle **staffette solidali di Labàs** durante il COVID, contribuito al **Censimento ISTAT sulle persone senza dimora** nel 2026 (metodologia *Point in Time* sulla città di Bologna) e condotto attività di **alfabetizzazione digitale per bambini tramite Scratch**, insegnando loro i concetti base della programmazione e del pensiero computazionale.
 
 ---
 
