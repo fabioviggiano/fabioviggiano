@@ -49,7 +49,7 @@ La voglia di costruire qualcosa di tangibile mi ha portato a co-fondare l'associ
 Oggi continuo questo racconto attraverso la collaborazione con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**. Qui mi occupo di report di musica dal vivo e curo la rubrica *Release Radar* su Instagram, unendo l'amore per il palco alla comunicazione digitale e ai nuovi linguaggi dei social media.
 
 ### 🎸 Il Progetto: Concerti a Bologna
-Bologna è la mia città d'adozione e il mio habitat naturale sono i suoi club, dal **Locomotiv** al **Covo Club**. Per anni ho passato ore a districarmi tra decine di siti e pagine social solo per trovare una data. Per questo ho deciso di creare lo strumento che mancava: **[Concerti a Bologna](http://www.concertiabologna.it)**. Si tratta di un calendario unico, curato e costantemente aggiornato, per avere tutta la scena musicale bolognese a portata di click. 
+Bologna è la mia città d'adozione e il mio habitat naturale sono i suoi club, dal **Locomotiv** al **Covo Club**. Per anni ho passato ore a districarmi tra decine di siti e pagine social solo per trovare una data. Per questo ho deciso di creare: **[Concerti a Bologna](http://www.concertiabologna.it)**. Si tratta di un calendario unico, curato e costantemente aggiornato, per avere tutta la scena musicale bolognese a portata di click. 
 
 ---
 
