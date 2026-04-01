@@ -29,26 +29,14 @@ Dall’altro lato, la **musica dal vivo**. I miei primi ascolti risalgono ai via
 Negli anni ho co-fondato un’associazione culturale nel Casertano per realizzare **eventi musicali e culturali** a 360°, con particolare attenzione alle **nuove proposte musicali e agli artisti più noti**. Durante gli anni scolastici, grazie a **Pia Di Donato**, mia docente di informatica, ho unito le mie passioni iniziando a scrivere **recensioni web per [CasertaMusica.com](https://www.casertamusica.com)**. Qui ho capito che volevo non solo ascoltare, ma anche **raccontare la musica dal vivo e la cultura musicale**.
 
 Oggi continuo a farlo collaborando attivamente con **FestivalsBackpack.it**, portando avanti la mia passione per la **musica dal vivo** e la **comunicazione digitale**.
-
----
-
-**Parole chiave SEO incluse:**  
-- Pubblica Amministrazione digitale  
-- Intelligenza Artificiale (AI)  
-- LLM  
-- Tecnologie avanzate nella PA  
-- Processi digitali  
-- Musica dal vivo  
-- Eventi musicali e culturali  
-- Comunicazione digitale
 ---
 
 ## 🛠 Competenze e Interessi
-- **Management & Analisi:** Agile Project Management, IT Analysis
-- **Tech Background:** Java, C#, Python
-- **Innovazione:** Intelligenza Artificiale, LLM (Large Language Models), SEO
-- **Music:** Scrivo e parlo di musica dal 2006
 
+- **Gestione e Analisi:** Agile Project Management, Analisi IT, ottimizzazione dei processi digitali  
+- **Background Tecnologico:** Java, C#, Python, sviluppo backend  
+- **Innovazione Digitale:** Intelligenza Artificiale (AI), LLM (Large Language Models), SEO, trasformazione digitale nella PA  
+- **Musica & Comunicazione:** Scrivo e parlo di musica dal 2006, recensioni e storytelling musicale, con focus su musica dal vivo ed eventi culturali
 ---
 
 ## 🗂 Navigazione dei miei progetti
