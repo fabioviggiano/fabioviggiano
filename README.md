@@ -1,7 +1,7 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
 **Agile Project Manager e IT Analyst @ Comune di Bologna**  
-*Ex sviluppatore backend (Java e C#) | Appassionato di AI, SEO e Live Music*
+*Ex sviluppatore backend (Java e C#) | Appassionato di AI, startup e live music*
 
 ---
 
