@@ -36,9 +36,11 @@ Sono anche **studente lavoratore all'Università di Bologna (Alma Mater Studioru
 
 ## 🎶 Musica dal vivo e comunicazione culturale
 
-La folgorazione definitiva è arrivata prima dei 10 anni, al mio primo concerto: **Lou Reed** al Concerto del Primo Maggio a Roma. Da quel momento la musica dal vivo è diventata una costante della mia vita.
+La folgorazione definitiva è arrivata prima dei 10 anni, al mio primo concerto: **Lou Reed** al Concerto del Primo Maggio a Roma. Ero rigorosamente accompagnato dai miei genitori: fu un caos totale, ma una vera e propria **folgorazione**. Da quel momento, la musica dal vivo è diventata una costante della mia vita.  
 
-Ho co-fondato un'associazione culturale a Santa Maria Capua Vetere per realizzare **eventi musicali e culturali**, ho scritto recensioni per **[CasertaMusica.com](https://www.casertamusica.com)** e oggi collaboro con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, portando avanti la mia passione per il live e la comunicazione digitale.
+Durante le superiori, la professoressa di Informatica **Pia Di Donato** propose a me e a due amici di scrivere per la testata online che gestiva, tuttora attiva: **[CasertaMusica.com](https://www.casertamusica.com)**.  
+
+Ho co-fondato l'associazione culturale **[Club 33 Giri](https://www.club33giri.it)** a Santa Maria Capua Vetere, dedicata alla realizzazione di **eventi musicali e culturali**, e oggi collaboro con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, dove scrivo **report di musica dal vivo** e produco **reel per Instagram** nella rubrica *Release Radar*, portando avanti la mia passione per il live e la comunicazione digitale.
 
 ---
 
