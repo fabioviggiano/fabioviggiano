@@ -1,6 +1,6 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
-**Proxy Product Owner (PPO) @ Comune di Bologna**  
+**Analista informatico @ Comune di Bologna**  
 *Ex sviluppatore backend (Java, C#)*   
 *Appassionato musica dal vivo, attualità (giornali & podcast) e arte contemporanea*
 
