@@ -36,7 +36,7 @@ Sono anche **studente lavoratore all'Università di Bologna (Alma Mater Studioru
 
 ## 🎶 Musica dal vivo e comunicazione culturale
 
-# Dalla folgorazione di Lou Reed a Concerti a Bologna: Il mio viaggio nella musica live
+# Dalla folgorazione di Lou Reed a Concerti a Bologna: Il mio viaggio nella musica live  
 
 La mia "scossa" definitiva è arrivata prima dei dieci anni. Ero al mio primo concerto, il **Concerto del Primo Maggio a Roma**, accompagnato dai miei genitori. Sul palco c’era **Lou Reed**. Ricordo il caos totale, l’energia elettrica e una vera e propria **folgorazione**. Da quel momento, la musica dal vivo è diventata la bussola della mia vita.
 
@@ -51,9 +51,6 @@ Oggi continuo questo racconto attraverso la collaborazione con **[FestivalsBackP
 ### 🎸 Il Progetto: Concerti a Bologna
 Bologna è la mia città d'adozione e il mio habitat naturale sono i suoi club, dal **Locomotiv** al **Covo Club**. Per anni ho passato ore a districarmi tra decine di siti e pagine social solo per trovare una data. Per questo ho deciso di creare lo strumento che mancava: **[Concerti a Bologna](http://www.concertiabologna.it)**. Si tratta di un calendario unico, curato e costantemente aggiornato, per avere tutta la scena musicale bolognese a portata di click. 
 
-
----
-*Meno tempo a cercare, più tempo sotto il palco.*
 ---
 
 ## 🚀 Startup
