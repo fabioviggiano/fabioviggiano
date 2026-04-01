@@ -98,5 +98,3 @@ Sul fronte del volontariato, ho organizzato **flashmob e attività di attivismo 
 ### 🧠 LLM & Prompts
 
 - **[Prompts](https://github.com/fabioviggiano/prompts)** — Raccolta di prompt per uso personale e lavorativo: dalla gestione progetti alla comunicazione digitale
-- **[LLM Experiments](https://github.com/fabioviggiano/llm-experiments)** — **Work in progress**
-
