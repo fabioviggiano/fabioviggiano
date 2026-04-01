@@ -3,6 +3,11 @@
 **Agile Project Manager e IT Analyst @ Comune di Bologna**  
 *Ex sviluppatore backend (Java e C#) | Appassionato di AI, startup e live music*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Viggiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioviggiano)  
+[![Spotify](https://img.shields.io/badge/Spotify-Ascoltami-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1167099710?si=8effbe633a4246da)  
+[![Instagram](https://img.shields.io/badge/Instagram-@viggiagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viggiagram)
+
+
 ---
 
 # 🎵 Tra codice e note: la mia storia
@@ -83,11 +88,3 @@ Un’esperienza che ha rafforzato la mia passione per il **fare impresa** e mi h
   Appunti, script e materiali del mio percorso universitario.
 
 ---
-
-## 📫 Entriamo in contatto!
-
-Parlo volentieri di **AI, tecnologia, startup e musica live** 🎶
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Viggiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioviggiano)  
-[![Spotify](https://img.shields.io/badge/Spotify-Ascoltami-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1167099710?si=8effbe633a4246da)  
-[![Instagram](https://img.shields.io/badge/Instagram-@viggiagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viggiagram)
