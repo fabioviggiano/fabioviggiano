@@ -1,7 +1,7 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
 **Agile Project Manager e IT Analyst @ Comune di Bologna**  
-*Ex sviluppatore backend (Java e C#) | Appassionato di AI, startup e live music*
+*Ex sviluppatore backend (Java, C#) | Appassionato di AI, startup e live music*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioviggiano">
@@ -17,101 +17,65 @@
 
 ---
 
-# 🎵 Tra codice, startup e note: la mia storia
+## 🎵 Tra codice, startup e note
 
-Classe 1989, origini metà campane e metà sicule. Fin dall’adolescenza, la mia vita si muove su due binari paralleli e inseparabili: **informatica** e **musica dal vivo**.
+Classe 1989, origini campane e sicule. La mia vita si muove da sempre su due binari paralleli: **informatica** e **musica dal vivo**.
 
 ---
 
-## 💻 Informatica e pubblica amministrazione digitale
+## 💻 IT e pubblica amministrazione digitale
 
-Da sempre appassionato di tecnologia, ho iniziato il mio percorso nello **sviluppo backend** e oggi mi concentro sulle potenzialità offerte da **Intelligenza Artificiale (AI)** e **LLM**. Sono affascinato da come queste tecnologie possano **ottimizzare i processi digitali**, migliorare la comunicazione e raccontare storie in modo efficace.
+Ho iniziato come sviluppatore backend e oggi mi occupo di **AI, LLM e trasformazione digitale**, esplorando come queste tecnologie possano ottimizzare processi e migliorare la comunicazione.
 
-Nel mio ruolo di **Analista IT presso il Comune di Bologna**, lavoro con l’obiettivo di applicare **soluzioni digitali innovative nella Pubblica Amministrazione**, contribuendo a:
-- migliorare l’interazione con i cittadini  
-- semplificare i processi interni  
-- rendere la PA sempre più **digitale e accessibile**
+Come **Analista IT al Comune di Bologna** lavoro per rendere la PA più digitale e accessibile: migliorando l'interazione con i cittadini, semplificando i processi interni e applicando soluzioni innovative al settore pubblico.
 
-Attualmente sono anche **studente lavoratore all’Università di Bologna (Alma Mater Studiorum)**, dove frequento la laurea magistrale in **Informatica**.
+Sono anche **studente lavoratore all'Università di Bologna (Alma Mater Studiorum)**, dove frequento la laurea magistrale in **Informatica - Curriculum: informatica per il management**.
 
 ---
 
 ## 🎶 Musica dal vivo e comunicazione culturale
 
-Dall’altro lato, la **musica dal vivo**. I miei primi ascolti risalgono ai viaggi in macchina con i miei genitori, tra **The Beatles** e **Fabrizio De André**, mentre il primo disco acquistato fu delle **Spice Girls**, a soli 9 anni. La folgorazione definitiva è avvenuta prima dei 10 anni, durante il mio primo concerto a Roma: suonava **Lou Reed**.
+La folgorazione definitiva è arrivata prima dei 10 anni, al mio primo concerto: **Lou Reed** al Concerto del Primo Maggio a Roma. Da quel momento la musica dal vivo è diventata una costante della mia vita.
 
-Da quel momento, la musica dal vivo è diventata una costante della mia vita.
-
-Negli anni ho co-fondato un’associazione culturale a Santa Maria Capua Vetere (CE) per realizzare **eventi musicali e culturali** a 360°, con particolare attenzione alle **nuove proposte e agli artisti affermati**.
-
-Durante gli anni scolastici, grazie a **Pia Di Donato**, ho iniziato a scrivere **recensioni web per [CasertaMusica.com](https://www.casertamusica.com)**, unendo tecnologia e musica. Qui ho capito che volevo non solo ascoltare, ma anche **raccontare la musica e la cultura live**.
-
-Oggi continuo questo percorso collaborando con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, portando avanti la mia passione per la **musica dal vivo** e la **comunicazione digitale**.
+Ho co-fondato un'associazione culturale a Santa Maria Capua Vetere per realizzare **eventi musicali e culturali**, ho scritto recensioni per **[CasertaMusica.com](https://www.casertamusica.com)** e oggi collaboro con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, portando avanti la mia passione per il live e la comunicazione digitale.
 
 ---
 
-## 🚀 Startup e imprenditorialità
+## 🚀 Startup
 
-La passione per la musica dal vivo mi ha naturalmente portato verso il mondo delle startup e dell’innovazione.
+La passione per la musica mi ha portato nel mondo dell'innovazione. Ho partecipato al percorso di incubazione presso **012Factory**, dove è nata **LYL – Live Your Live**: una piattaforma web e mobile per migliorare l'esperienza della musica dal vivo, dalla ricerca del concerto all'acquisto del biglietto, fino alla logistica e alla recensione dell'evento.
 
-Ho partecipato al percorso di incubazione presso **012Factory**, primo centro di contaminazione in Italia per l’imprenditoria innovativa, basato su un approccio concreto al *learning by doing* e sulla condivisione di idee, esperienze e visioni.
-
-In questo contesto, fin dai primi giorni di percorso, è nata l’idea di **LYL – Live Your Live**, una startup ideata e sviluppata interamente all’interno dell’incubatore.
-
-LYL era una piattaforma web e mobile pensata per migliorare l’esperienza della musica dal vivo, accompagnando l’utente in tutto il journey:
-- acquisto del biglietto  
-- organizzazione di viaggio, vitto e alloggio  
-- recensione e valutazione di performance, location e organizzazione  
-
-Il progetto è stato selezionato per la **finale del 16 gennaio 2015**, presso il **Teatro di Corte della Reggia di Caserta**, e presentato davanti a una giuria composta da investitori, business angel ed esperti del settore.
-
-Un’esperienza che ha consolidato la mia passione per il **fare impresa** e mi ha lasciato un bagaglio di competenze difficilmente acquisibile al di fuori di un contesto imprenditoriale reale.
+Il progetto è stato selezionato per la **finale del 16 gennaio 2015** presso il **Teatro di Corte della Reggia di Caserta**, presentato davanti a investitori, business angel ed esperti del settore.
 
 ---
 
-## 🧭 Esperienze trasversali
+## 🧭 Esperienze trasversali e volontariato
 
-Prima e durante il mio percorso universitario ho maturato esperienze lavorative in contesti molto diversi tra loro, che hanno contribuito in modo significativo alla mia crescita personale e professionale.
+Prima e durante l'università ho lavorato come **cameriere, pizzaiolo, barista** e **animatore turistico**, sviluppando competenze di relazione, public speaking, gestione dello stress e problem solving che uso ogni giorno nel lavoro di team e di progetto.
 
-Ho lavorato nel settore della ristorazione come **cameriere, pizzaiolo e barista**, principalmente nei weekend, sviluppando capacità di:
-- gestione dello stress  
-- lavoro in team  
-- relazione con il cliente  
-- problem solving in contesti dinamici  
-
-Successivamente ho lavorato per due anni come **animatore turistico nei villaggi**, un’esperienza formativa che mi ha permesso di rafforzare:
-- comunicazione efficace  
-- public speaking  
-- gestione di gruppi e attività  
-- adattabilità e spirito di iniziativa  
-
-Queste esperienze, apparentemente distanti dal mondo IT, hanno avuto un impatto fondamentale nel mio modo di lavorare oggi, soprattutto nella gestione delle relazioni, dei team e dei progetti.
+Sul fronte del volontariato ho organizzato **flashmob e attivismo culturale** col *Club 33 Giri*, partecipato alle **staffette solidali di Labàs** durante il COVID, contribuito al **Censimento ISTAT sulle persone senza dimora** nel 2026 (metodologia *Point in Time*, 14 città) e condotto attività di **alfabetizzazione digitale** per bambini tramite **Scratch**.
 
 ---
 
-## 🛠 Competenze e interessi
+## 🛠 Competenze
 
-- **Gestione e Analisi:** Agile Project Management, Analisi IT, ottimizzazione dei processi digitali  
-- **Background Tecnologico:** Java, C#, Python, sviluppo backend  
-- **Innovazione Digitale:** AI, LLM, SEO, trasformazione digitale nella PA  
-- **Musica & Comunicazione:** Scrittura musicale, recensioni, storytelling culturale, eventi live  
+| Area | Dettaglio |
+|---|---|
+| **Project & Analysis** | Agile PM, Analisi IT, ottimizzazione processi |
+| **Tech** | Python, Java, C#, sviluppo backend |
+| **AI & Digital** | LLM, prompt engineering, trasformazione digitale PA |
+| **Communication** | Scrittura musicale, storytelling, SEO, eventi live |
 
 ---
 
-## 🗂 Navigazione dei miei progetti
+## 🗂 Progetti
 
 ### 🎧 Musica e dati
-- **[Musica](https://github.com/fabioviggiano/musica)**  
-  *Diario sonoro e archivio musicale.* Raccolta di recensioni, reportage di concerti e archivio delle uscite musicali settimanali.
 
-- **[Live Music Network Analysis](https://github.com/jacques2/live-music-network-analysis)**  
-  Analisi di rete tra artisti e venue musicali su Bologna (Python).
+- **[Musica](https://github.com/fabioviggiano/musica)** — Diario sonoro: recensioni, reportage e archivio uscite settimanali
+- **[Live Music Network Analysis](https://github.com/jacques2/live-music-network-analysis)** — Analisi di rete tra artisti e venue a Bologna (Python)
 
 ### 🎓 Tech e università
-- **[BlindDeconvolution](https://github.com/fabioviggiano/BlindDeconvolution)**  
-  Progetto Python per Computational Imaging.
 
-- **[AlmaMater](https://github.com/fabioviggiano/AlmaMater)**  
-  Appunti, script e materiali del mio percorso universitario.
-
----
+- **[BlindDeconvolution](https://github.com/fabioviggiano/BlindDeconvolution)** — Progetto Python per Computational Imaging
+- **[AlmaMater](https://github.com/fabioviggiano/AlmaMater)** — Appunti, script e materiali del percorso universitario
