@@ -36,14 +36,24 @@ Sono anche **studente lavoratore all'Università di Bologna (Alma Mater Studioru
 
 ## 🎶 Musica dal vivo e comunicazione culturale
 
-La folgorazione definitiva è arrivata prima dei 10 anni, al mio primo concerto: **Lou Reed** al Concerto del Primo Maggio a Roma. Ero rigorosamente accompagnato dai miei genitori: fu un caos totale, ma una vera e propria **folgorazione**. Da quel momento, la musica dal vivo è diventata una costante della mia vita.  
+# Dalla folgorazione di Lou Reed a Concerti a Bologna: Il mio viaggio nella musica live
 
-Durante le superiori, la professoressa di Informatica **Pia Di Donato** propose a me e a due amici di scrivere per la testata online che gestiva, tuttora attiva: **[CasertaMusica.com](https://www.casertamusica.com)**.  
+La mia "scossa" definitiva è arrivata prima dei dieci anni. Ero al mio primo concerto, il **Concerto del Primo Maggio a Roma**, accompagnato dai miei genitori. Sul palco c’era **Lou Reed**. Ricordo il caos totale, l’energia elettrica e una vera e propria **folgorazione**. Da quel momento, la musica dal vivo è diventata la bussola della mia vita.
 
-Ho co-fondato l'associazione culturale **[Club 33 Giri](https://www.club33giri.it)** a Santa Maria Capua Vetere, dedicata alla realizzazione di **eventi musicali e culturali**, e oggi collaboro con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**, dove scrivo **report di musica dal vivo** e produco **reel per Instagram** nella rubrica *Release Radar*, portando avanti la mia passione per il live e la comunicazione digitale.
+### ✍️ Le radici: Scrittura e Territorio
+Il passaggio da spettatore a narratore è iniziato tra i banchi delle superiori. La mia professoressa di Informatica, **Pia Di Donato**, propose a me e a due amici di scrivere per la testata online che gestiva (e che coordina tuttora): **[CasertaMusica.com](https://www.casertamusica.com)**. È lì che ho imparato a tradurre l'emozione dei live in parole.
 
-Gestisco il portale **[Concerti a Bologna](www.concertiabologna.it)**
+La voglia di costruire qualcosa di tangibile mi ha portato a co-fondare l'associazione culturale **[Club 33 Giri](https://www.club33giri.it)** a Santa Maria Capua Vetere. Un progetto dedicato alla realizzazione di eventi musicali e culturali, dove ho vissuto in prima persona la sfida di creare spazi per la musica.
 
+### 🎒 Comunicazione Digitale
+Oggi continuo questo racconto attraverso la collaborazione con **[FestivalsBackPack.it](https://www.festivalsbackpack.it)**. Qui mi occupo di report di musica dal vivo e curo la rubrica *Release Radar* su Instagram, unendo l'amore per il palco alla comunicazione digitale e ai nuovi linguaggi dei social media.
+
+### 🎸 Il Progetto: Concerti a Bologna
+Bologna è la mia città d'adozione e il mio habitat naturale sono i suoi club, dal **Locomotiv** al **Covo Club**. Per anni ho passato ore a districarmi tra decine di siti e pagine social solo per trovare una data. Per questo ho deciso di creare lo strumento che mancava: **[Concerti a Bologna](http://www.concertiabologna.it)**. Si tratta di un calendario unico, curato e costantemente aggiornato, per avere tutta la scena musicale bolognese a portata di click. 
+
+
+---
+*Meno tempo a cercare, più tempo sotto il palco.*
 ---
 
 ## 🚀 Startup
