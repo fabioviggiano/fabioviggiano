@@ -1,7 +1,7 @@
 # Ciao, sono Fabio! 👋 💻 🎸
 
 **Agile Project Manager e IT Analyst @ Comune di Bologna**  
-*Ex sviluppatore backend (Java, C#) | Appassionato di AI, startup e live music*
+*Ex backend developer (Java, C#) | Appassionato di AI, startup, musica dal vivo e attualità (giornali & podcast)*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabioviggiano">
